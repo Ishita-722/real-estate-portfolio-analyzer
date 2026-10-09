@@ -2,6 +2,9 @@
 
 ## Overview
 
+## Project Preview
+![Real Estate Portfolio & Property Investment Analyzer](real_estate.jpeg)
+
 The **Real Estate Portfolio & Property Investment Analyzer** is a data analytics project developed using Microsoft Excel and Microsoft Power BI to evaluate real estate investments and analyze property portfolio performance.
 
 Using a dataset of 500 properties, the project explores investment returns, geographical distribution, acquisition costs, operating expenses, financial trends, and property valuations. The interactive Power BI dashboard transforms property-related data into meaningful visual insights to support investment evaluation and data-driven decision-making.
